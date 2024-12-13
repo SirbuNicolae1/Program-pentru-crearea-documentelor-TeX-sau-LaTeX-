@@ -1,1 +1,1 @@
-# Program-pentru-crearea-documentelor-TeX-sau-LaTeX-
+Acest proiect oferă un șablon complet și personalizabil pentru generarea documentelor structurate utilizând LaTeX. Include suport pentru formatare automată, gestionarea bibliografiei, integrarea formulelor matematice, tabelelor și diagramelor, fiind ideal pentru lucrări academice și rapoarte tehnice.
